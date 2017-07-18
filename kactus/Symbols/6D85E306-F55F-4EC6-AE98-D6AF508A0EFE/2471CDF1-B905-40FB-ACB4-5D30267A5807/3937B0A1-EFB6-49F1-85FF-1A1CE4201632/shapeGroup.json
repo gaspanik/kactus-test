@@ -1,0 +1,137 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "3937B0A1-EFB6-49F1-85FF-1A1CE4201632",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 354,
+    "width": 344,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell Copy 3",
+  "nameIsFixed": true,
+  "originalObjectID": "78C7644B-2F1F-483E-A005-0C4652D88F64",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 0.8,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "position": 1,
+        "thickness": 0.5
+      },
+      {
+        "_class": "border",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "position": 1,
+        "thickness": 0.5
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "isEnabled": true,
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.24,
+          "blue": 0.8196078431372549,
+          "green": 0.8196078431372549,
+          "red": 0.8196078431372549
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      },
+      {
+        "_class": "shadow",
+        "isEnabled": true,
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "6E794388-6546-4F04-90C9-88FBA525C0DD",
+      "class": "rectangle"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
+}
