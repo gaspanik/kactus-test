@@ -50,7 +50,7 @@
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
         "mode": "unsplash",
-        "category": "Food"
+        "category": "Cafe"
       }
     }
   },
@@ -72,7 +72,7 @@
         "image": {
           "_class": "MSJSONFileReference",
           "_ref_class": "MSImageData",
-          "_ref": "images/f30db4bf869fb766706a3db8b73c9b2175eae844"
+          "_ref": "images/9d800c7d2ec053edfe7fc80636f033b7451e6a3e"
         },
         "noiseIndex": 0,
         "noiseIntensity": 0,
