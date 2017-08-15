@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "CDAE2025-A1AC-4FC1-8306-706701A2EEB3",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3EDCEC1A-B2A4-4CDF-BDD3-9D8B92378BB7"
+    }
+  ],
   "name": "navbar bg",
   "nameIsFixed": true,
   "originalObjectID": "AD6354F9-BB89-4990-8B0B-B83D3974CDCE",
@@ -33,7 +44,6 @@
     "borders": [
       {
         "_class": "border",
-        "isEnabled": false,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -42,6 +52,7 @@
           "red": 0.592
         },
         "fillType": 0,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -50,7 +61,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -59,6 +69,7 @@
           "red": 0.2470588235294118
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -69,14 +80,5 @@
     "sharedObjectID": "C2BA975E-E93B-4D2B-AC85-7D14857BE29F",
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "3EDCEC1A-B2A4-4CDF-BDD3-9D8B92378BB7",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }

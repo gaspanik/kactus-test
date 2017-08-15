@@ -1,10 +1,13 @@
 {
   "_class": "shapeGroup",
+  "clippingMaskMode": 0,
   "do_objectID": "3937B0A1-EFB6-49F1-85FF-1A1CE4201632",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +19,19 @@
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6E794388-6546-4F04-90C9-88FBA525C0DD"
+    }
+  ],
   "name": "Cell Copy 3",
   "nameIsFixed": true,
   "originalObjectID": "78C7644B-2F1F-483E-A005-0C4652D88F64",
@@ -33,7 +44,6 @@
     "borders": [
       {
         "_class": "border",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0.8,
@@ -42,12 +52,12 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "position": 1,
         "thickness": 0.5
       },
       {
         "_class": "border",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 0,
@@ -56,6 +66,7 @@
           "red": 0
         },
         "fillType": 0,
+        "isEnabled": true,
         "position": 1,
         "thickness": 0.5
       }
@@ -64,7 +75,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -73,6 +83,7 @@
           "red": 1
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -83,7 +94,6 @@
     "shadows": [
       {
         "_class": "shadow",
-        "isEnabled": true,
         "blurRadius": 2,
         "color": {
           "_class": "color",
@@ -97,13 +107,13 @@
           "blendMode": 0,
           "opacity": 1
         },
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0
       },
       {
         "_class": "shadow",
-        "isEnabled": true,
         "blurRadius": 2,
         "color": {
           "_class": "color",
@@ -117,6 +127,7 @@
           "blendMode": 0,
           "opacity": 1
         },
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 0,
         "spread": 0
@@ -124,14 +135,5 @@
     ],
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "6E794388-6546-4F04-90C9-88FBA525C0DD",
-      "class": "rectangle"
-    }
-  ],
-  "clippingMaskMode": 0,
-  "hasClippingMask": false,
   "windingRule": 1
 }
