@@ -54,7 +54,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/9d800c7d2ec053edfe7fc80636f033b7451e6a3e",
+          "_ref": "images/cedc3fbb35b2a33eb3a2cdd8efbf0906aa0e6d58",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -89,7 +89,7 @@
     },
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
-        "category": "Cafe",
+        "category": "Beach",
         "mode": "unsplash"
       }
     }
